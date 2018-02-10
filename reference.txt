@@ -1,0 +1,8 @@
+人脸识别
+https://www.jiqizhixin.com/articles/2017-07-28-9
+https://github.com/ageitgey/face_recognition
+
+深度学习物体识别
+https://www.pyimagesearch.com/2017/08/21/deep-learning-with-opencv/
+https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
+https://www.jiqizhixin.com/articles/2017-09-21-3
